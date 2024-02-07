@@ -1,4 +1,4 @@
-/* A sexy standard pressable icon that can be used frequently*/
+/* A  standard pressable icon that can be used frequently*/
 
 import React from "react";
 import { StyleSheet, Image, TouchableOpacity } from "react-native";
